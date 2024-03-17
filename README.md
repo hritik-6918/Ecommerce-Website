@@ -16,7 +16,7 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/hritik-6918/React_E-Commerce
+  git clone https://github.com/hritik-6918/Ecommerce-Website
 ```
 
 Go to the project directory
